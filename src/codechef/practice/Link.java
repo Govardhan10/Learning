@@ -1,4 +1,6 @@
-public class Link {
+package codechef.practice;
+
+class Link {
 
   int data;
   Link pointer;

@@ -1,3 +1,5 @@
+package codechef.practice;
+
 public class RecursionInsertion {
 
     public static void main(String args[]){

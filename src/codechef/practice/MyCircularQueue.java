@@ -1,3 +1,5 @@
+package codechef.practice;
+
 class MyCircularQueue {
 
     private int[] data;

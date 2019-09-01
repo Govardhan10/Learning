@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package codechef.practice;
 
 public class LinkedListImpl {
   public static void main(String args[]) {
